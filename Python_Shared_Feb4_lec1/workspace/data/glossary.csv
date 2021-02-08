@@ -1,0 +1,20 @@
+Item,Description
+Anaconda,"Python distribution package tailored for data sciences. It includes thousands of popular data science packages, the Spyder IDE, Jupyter Notebook, and the conda package and virtual environment manager for Windows, Linux and MacOS."
+conda,Command line package and environment manager. (Anaconda Navigator is the GUI to Conda)
+cython,C compiler for functions to make them faster
+IDE,Integrated Development Environment bringing together basic tools for writing and debugging software under one user interface
+JupyterHub,Multi-user server for Jupyter Notebooks
+Jupyter Notebook,"Interactive environment combining code cells with rich text elements including equations, figures, images and links and interactive plotting."
+JupyterLab,Next generation UI for Project Jupyter offering and IDE like experience for data science applications (currently in Beta and will eventually replace Jupyter Notebook)
+Markdown,Lightweight markup language used in Jupyter Notebooks
+MathJax,Markdown specific for rendering equations. Jupyter markdown parser is MathJax aware.
+matplotlib,Plotting library includes pyplot that works like Matlab
+Module,"A single file containing Python objects including definitions of functions, classes, variables, and constants."
+NumPy,Python extension module for numerical data allowing for efficient vectorized operations on arrays
+pandas,"Python package for data analysis for working with ""labeled"" or ""relational"" data in an easy and intuitive way similar to spreadsheets."
+pip,"Python tool for installing and managing packages.  Similar to conda and can be used side by side (Since Anaconda environment is managed with conda, try to install new packages with conda first, and if not available use pip).  "
+SciPy,"Package containing scientific and numerical tools for Python supporting integration, ODE solvers, gradient optimization. Very fast, efficient and robust as most are wrappers around existing C/Fortran routines from www.netlib.org"
+Seaborn,Plotting library built over Matplotlib for more attractive plots. Simply importing Seaborn will beautify existing plots
+Spyder,IDE packaged with Anaconda
+Package,A collection of modules under a common namespace. 
+Library,"General term for a module, package or collection of packages for use in a general application area or functional space."
