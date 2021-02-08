@@ -1,0 +1,3 @@
+[submodule "ThinkDSP"]
+	path = ThinkDSP
+	url = https://github.com/dimitarpg13/ThinkDSP.git
